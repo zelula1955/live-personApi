@@ -19,13 +19,13 @@ _Após executar o comando acima, basta apenas abrir o seguinte endereço e visua
 
 # São necessários os seguintes pré-requisitos para a execução do projeto desenvolvido durante a aula:
 
-1 Java 11 ou versões superiores.
-2 Maven 3.6.3 ou versões superiores.
-3 Intellj IDEA Community Edition ou sua IDE favorita.
-4 Controle de versão GIT instalado na sua máquina.
-4 Conta no GitHub para o armazenamento do seu projeto na nuvem.
-5 Conta no Heroku para o deploy do projeto na nuvem
-6 Muita vontade de aprender e compartilhar conhecimento :)
+1. Java 11 ou versões superiores.
+2. Maven 3.6.3 ou versões superiores.
+3. Intellj IDEA Community Edition ou sua IDE favorita.
+4. Controle de versão GIT instalado na sua máquina.
+5. Conta no GitHub para o armazenamento do seu projeto na nuvem.
+6. Conta no Heroku para o deploy do projeto na nuvem
+7. Muita vontade de aprender e compartilhar conhecimento :)
 
 # Abaixo, seguem referencias links bem bacanas, sobre tópicos mencionados durante a aula:
 
