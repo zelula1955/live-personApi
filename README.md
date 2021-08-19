@@ -17,28 +17,29 @@ _Após executar o comando acima, basta apenas abrir o seguinte endereço e visua
 http://localhost:8080/api/v1/people
 https://person-live-api.herokuapp.com/ (deployed to Heroku)
 
-_São necessários os seguintes pré-requisitos para a execução do projeto desenvolvido durante a aula:
+# São necessários os seguintes pré-requisitos para a execução do projeto desenvolvido durante a aula:
 
 1 Java 11 ou versões superiores.
-Maven 3.6.3 ou versões superiores.
-Intellj IDEA Community Edition ou sua IDE favorita.
-Controle de versão GIT instalado na sua máquina.
-Conta no GitHub para o armazenamento do seu projeto na nuvem.
-Conta no Heroku para o deploy do projeto na nuvem
-Muita vontade de aprender e compartilhar conhecimento :)
-Abaixo, seguem links bem bacanas, sobre tópicos mencionados durante a aula:
+2 Maven 3.6.3 ou versões superiores.
+3 Intellj IDEA Community Edition ou sua IDE favorita.
+4 Controle de versão GIT instalado na sua máquina.
+4 Conta no GitHub para o armazenamento do seu projeto na nuvem.
+5 Conta no Heroku para o deploy do projeto na nuvem
+6 Muita vontade de aprender e compartilhar conhecimento :)
 
-SDKMan! para gerenciamento e instalação do Java e Maven
-Referência do Intellij IDEA Community, para download
-Palheta de atalhos de comandos do Intellij
-Site oficial do Spring
-Site oficial do Spring Initialzr, para setup do projeto
-Site oficial do Heroku
-Site oficial do GIT
-Site oficial do GitHub
-Documentação oficial do Lombok
-Documentação oficial do Map Struct
-Referência para o padrão arquitetural REST
+# Abaixo, seguem referencias links bem bacanas, sobre tópicos mencionados durante a aula:
+
+1 SDKMan! para gerenciamento e instalação do Java e Maven
+2 Referência do Intellij IDEA Community, para download
+3 Palheta de atalhos de comandos do Intellij
+4 Site oficial do Spring
+5 Site oficial do Spring Initialzr, para setup do projeto
+6 Site oficial do Heroku
+7 Site oficial do GIT
+8 Site oficial do GitHub
+9 Documentação oficial do Lombok
+10 Documentação oficial do Map Struct
+11 Referência para o padrão arquitetural REST
 
   <img src="C:\Users\José Luiz\Pictures\H2_db.png" style="zoom:50%;" /> 
 
